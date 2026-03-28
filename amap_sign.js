@@ -25,7 +25,7 @@
 // 用户配置区 ============================================
 const config = {
     // 高德地图签到所需的 Cookie，请务必填写
-    cookie: '',
+    cookie: 'guid=fa62-29d0-c2d0-4b64; _uab_collina=177469208047242977089148; passport_login=NzU2ODM3NzA0LGFtYXB1WnJjYktmeCxtNXVybmk1cm9nYWhpZ3dmdWJodWFsaHV4NG56MnJ3cSwxNzc0NjkyMTI4LFpqWmxaV1ZpWW1KallqazJNekppTUdVNVpqSTBPREJrWXpWbE1EQTNNR1k9; oauth_state=6395d2add6664a8eec2dc158970580e0',
     // 是否开启调试日志
     debug: false,
     // 签到失败重试次数
